@@ -430,7 +430,7 @@ func (o *Order) ComputeOrderHash() (common.Hash, error) {
 
 	chainID := math.NewHexOrDecimal256(o.ChainID.Int64())
 	var domain = gethsigner.TypedDataDomain{
-		Name:              "0x Protocol",
+		Name:              "Niftyx Protocol",
 		Version:           "3.0.0",
 		ChainId:           chainID,
 		VerifyingContract: o.ExchangeAddress.Hex(),
