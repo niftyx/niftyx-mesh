@@ -1553,10 +1553,12 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@types/base64-arraybuffer@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@types/base64-arraybuffer/-/base64-arraybuffer-0.1.0.tgz#739eea0a974d13ae831f96d97d882ceb0b187543"
-  integrity sha512-oyV0CGER7tX6OlfnLfGze0XbsA7tfRuTtsQ2JbP8K5KBUzc24yoYRD+0XjMRQgOejvZWeIbtkNaHlE8akzj4aQ==
+"@types/base64-arraybuffer@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@types/base64-arraybuffer/-/base64-arraybuffer-0.2.0.tgz#c328e6842e4ed946996fff2d668d74c45b3f5493"
+  integrity sha512-OtAsmGsVPEyivZ1RLopxxMUMWV3CHlFaq1dc90ujKbTGuitaLkbMVVJc07MnqKMyU6Eug+uVbVoIYKBe1IH7FQ==
+  dependencies:
+    base64-arraybuffer "*"
 
 "@types/bignumber.js@^5.0.0":
   version "5.0.0"
@@ -3095,7 +3097,7 @@ base-x@^3.0.2:
   dependencies:
     safe-buffer "^5.0.1"
 
-base64-arraybuffer@^0.2.0:
+base64-arraybuffer@*, base64-arraybuffer@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/base64-arraybuffer/-/base64-arraybuffer-0.2.0.tgz#4b944fac0191aa5907afe2d8c999ccc57ce80f45"
   integrity sha512-7emyCsu1/xiBXgQZrscw/8KPRT44I4Yq9Pe6EGs3aPRTsWuggML1/1DTuZUuIaJPIm1FTDUVXl4x/yW8s0kQDQ==
