@@ -35,6 +35,11 @@
   resolved "https://registry.yarnpkg.com/@0x/contract-addresses/-/contract-addresses-4.11.0.tgz#945aa81035bfc5605306c39c5f76656b204e01e2"
   integrity sha512-ovGZzJMhrGDVoq+pofqP2y23niPyQi7QjqSXZNDHcPbo4+XCuV7EvCv0eTlcuwpVNdQDQvcl3Oma9qokDrmx/Q==
 
+"@0x/contract-addresses@^6.7.0":
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/@0x/contract-addresses/-/contract-addresses-6.7.0.tgz#2b53f75f86144a48acef93039ab6b9d371072bc0"
+  integrity sha512-z67/OPernPCqJQK5LakVp+Ut2tYnRHsYH6+AjreJxpsN15Vd5A7r2h4LXE1Nnp/kx8bYXjNMkxHUKxFoz5xVPA==
+
 "@0x/contract-wrappers@^13.8.0":
   version "13.8.0"
   resolved "https://registry.yarnpkg.com/@0x/contract-wrappers/-/contract-wrappers-13.8.0.tgz#565c57354dd7b50c843babc56b18b7c997e701e0"
