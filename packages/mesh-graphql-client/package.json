@@ -17,7 +17,7 @@
         "docsPath": "../../docs/graphql-client"
     },
     "devDependencies": {
-        "@0x/contract-addresses": "^4.11.0",
+        "@0x/contract-addresses": "^6.10.0",
         "@0x/contracts-erc20": "^3.2.1",
         "@0x/contracts-exchange": "^3.2.7",
         "@0x/contracts-test-utils": "^5.3.4",
